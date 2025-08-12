@@ -29,3 +29,15 @@ Learn more: [IAB Tech Lab - App-ads.txt](https://iabtechlab.com/ads-txt/)
 ## 🌐 Live Configuration
 
 ### 📍 **Primary URL:**
+https://banishwor.github.io/yek-salai-app-ads/app-ads.txt
+
+### 🎨 **Landing Page:**
+https://banishwor.github.io/yek-salai-app-ads/
+
+## 📁 Repository Structure
+
+yek-salai-app-ads/
+├── README.md # This documentation
+├── app-ads.txt # AdMob authorization file
+├── index.html # Professional landing page
+└── .gitignore # Git ignore rules
