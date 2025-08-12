@@ -1,1 +1,0 @@
-# yek-salai-app-ads
