@@ -1,0 +1,17 @@
+# app-ads.txt for Yek Salai - Meitei Heritage App
+# Publisher: Yek Salai Cultural Preservation Project
+# Last Updated: 2025-08-12
+# Contact: admin@yeksalai.com
+
+# Google AdMob - Primary Ad Network
+google.com, pub-2126541360640458, DIRECT, f08c47fec0942fa0
+
+# Additional Networks (add when you expand)
+# facebook.com, XXXXXXXXXX, DIRECT, c3e20eee3f780d68
+# unity.com, XXXXXXXXXX, DIRECT, 96cabb5fbdde37a7
+
+# Authorized Resellers
+# Add reseller entries here when needed
+
+# File Format: domain.com, publisher-account-id, DIRECT/RESELLER, TAG-ID
+# For more information: https://iabtechlab.com/ads-txt/
